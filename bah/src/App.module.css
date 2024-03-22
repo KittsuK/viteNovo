@@ -1,3 +1,5 @@
 .wrap-principal{
-    background-color: blueviolet;
+    /* background-color: blueviolet; */
+    display: flex;
+    flex-direction: column;
 }
