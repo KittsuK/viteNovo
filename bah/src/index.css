@@ -2,7 +2,7 @@
   --text-tittle: #967eff;
   --text-p: #ffff;
   --bg-primary: rgb(0, 8, 32);
-  --bg-secundary: rgb(44, 10, 58);
+  --bg-secundary: rgb(10, 58, 55);
   --shadow: rgba(0, 0, 0, 0.575) 0px 5px 5px 5px; 
   --color-shadow: rgba(180, 221, 255, 0.575) 0px 5px 5px 5px; 
 }
@@ -19,7 +19,6 @@ body{
   min-height: 100vh;
   background-color: var(--bg-primary);
   overflow-x: hidden;
-  padding: 20px;
 }
 
 h1,h2,h3,h4,h5{
